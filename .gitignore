@@ -1,0 +1,6 @@
+*/.terraform
+*/*/.terraform
+out
+.idea
+test.iml
+.DS_Store
